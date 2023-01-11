@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/superblog/static/css/main.07dbabba.css",
+    "main.js": "/superblog/static/js/main.55b3f1d3.js",
+    "static/js/787.59ee247b.chunk.js": "/superblog/static/js/787.59ee247b.chunk.js",
+    "index.html": "/superblog/index.html",
+    "main.07dbabba.css.map": "/superblog/static/css/main.07dbabba.css.map",
+    "main.55b3f1d3.js.map": "/superblog/static/js/main.55b3f1d3.js.map",
+    "787.59ee247b.chunk.js.map": "/superblog/static/js/787.59ee247b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07dbabba.css",
+    "static/js/main.55b3f1d3.js"
+  ]
+}
